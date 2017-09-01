@@ -14,7 +14,7 @@ export class Flickr{
       flickrURL = 'https://api.flickr.com/services/rest/',
       flickrParams = {
         method: 'flickr.photos.search',
-        api_key: 'c7fe3deed240d22632e1d0771c5025f4',
+        api_key: '8d9ba2ad31151a1c459ea2c5155153f4',
         format: 'json',
         nojsoncallback: 1,
         per_page: 20,
